@@ -10,3 +10,5 @@ In particular, I want to use:
 - Less repetition
 - Test functions
 - Cleaner more beautiful code!
+
+The new, improved program can be found in ./new/
